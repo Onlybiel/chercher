@@ -1,0 +1,2 @@
+123|123|Administrador|99999999|http://52.162.235.224/dono.jpg
+Pedro|phcphc01|Usuario Vip|1000|

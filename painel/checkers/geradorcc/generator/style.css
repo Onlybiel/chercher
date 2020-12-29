@@ -1,0 +1,51 @@
+			.btn.outline {
+				background: none;
+				padding: 12px 22px;
+			}
+			
+			h1 {
+				font-size: 36px;
+				color: #FFFFFE;
+				font: bold;
+            }
+			
+			input[type="checkbox"]{
+				border: 2px solid #FFF900;
+				color: #FFFFFE;
+				-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 18px rgba(255, 255, 0, .9);
+				box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 18px rgba(255, 255, 0, .9);
+			}
+
+			.btn-primary.outline {
+				border: 2px solid #FFF900;
+				color: #FFFFFE;
+				-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 18px rgba(255, 255, 0, .9);
+				box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 18px rgba(255, 255, 0, .9);
+			}
+
+			.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary{
+				color: #FFFFFE;
+				border-color: #FFF900;
+				-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 38px rgba(255, 255, 0, .9);
+				box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 38px rgba(255, 255, 0, .9);
+			}
+			.btn-primary.outline:active, .btn-primary.outline.active {
+				border-color: #FFF900;
+				color: #FFFFFE;
+				box-shadow: none;
+			}
+
+			a, a:hover, a:focus{
+				color: #FFFFFE;
+				border-color: #FFF900;
+			}
+
+			.form-signin .form-signin-heading,
+			.form-signin .checkbox {
+				margin-bottom: 10px;
+				color: #FFFFFE;
+				font: bold;
+			}
+			td{
+				margin: 1px solid #FFF900;
+			}
